@@ -1,6 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 import "./App.css";
 
+
 const playlist = [
 { title: "1 الرسول ﷺ", arabic: "النبي ﷺ", file: "/audio/the-prophet-one.mp3" },
 { title: "2 الرسول ﷺ", arabic: "الرسول صلى الله عليه وسلم", file: "/audio/prophet-muhammad.mp3" },
